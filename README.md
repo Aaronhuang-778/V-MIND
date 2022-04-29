@@ -20,7 +20,7 @@ This is the dataset of our paper which enhanced the MIND with all News Pics
 - "Why Jayson Tatum Said Marcus Morris Is 'Full Of (Expletive)' After Celtics-Knicks"
 -  "Jayson Tatum loves Marcus Morris but he's not buying everything his former teammate is selling. In the Boston Celtics' thrilling victory over the New York Knicks on Friday Tatum responded"
 
-![N78443](pic\N78443.jpg)
+![N78443](https://github.com/Aaronhuang-778/v-mind/blob/main/pic/N78443.jpg)
 
 ##### 2、
 
@@ -30,7 +30,7 @@ This is the dataset of our paper which enhanced the MIND with all News Pics
 - 'Trailer - Low Tide'
 - 'Trailer 1'
 
-![N93173](pic\N93173.jpg)
+![N93173](https://github.com/Aaronhuang-778/v-mind/blob/main/pic/N93173.jpg)
 
 #### Citation format:
 
