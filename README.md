@@ -32,13 +32,14 @@ This is the dataset of our paper which enhanced the MIND with all News Pics
 
 ![N93173](https://github.com/Aaronhuang-778/v-mind/blob/main/pic/N93173.jpg)
 
-#### Citation format:
-
+## Citation
+```
 @misc{han2022vlsnrvisionlinguistics,
-      title={VLSNR:Vision-Linguistics Coordination Time Sequence-aware News Recommendation}, 
+      title={VLSNR:Vision-Linguistics Coordination Time Sequence-aware News Recommendation},
       author={Songhao Han and Wei Huang and Xiaotian Luan},
       year={2022},
       eprint={2210.02946},
       archivePrefix={arXiv},
       primaryClass={cs.IR}
 }
+```
