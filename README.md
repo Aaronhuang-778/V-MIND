@@ -34,4 +34,11 @@ This is the dataset of our paper which enhanced the MIND with all News Pics
 
 #### Citation format:
 
-​	Our dataset will open soon! It is worth waiting for good things!!!
+@misc{han2022vlsnrvisionlinguistics,
+      title={VLSNR:Vision-Linguistics Coordination Time Sequence-aware News Recommendation}, 
+      author={Songhao Han and Wei Huang and Xiaotian Luan},
+      year={2022},
+      eprint={2210.02946},
+      archivePrefix={arXiv},
+      primaryClass={cs.IR}
+}
