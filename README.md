@@ -33,6 +33,10 @@ Please get V-MIND via google drive link below.
 
 ![N93173](https://github.com/Aaronhuang-778/v-mind/blob/main/pic/N93173.jpg)
 
+## Download
+```
+https://drive.google.com/file/d/1ZBmwC2DBfl6ZNcD7Y6HqRMwCWw1NIW6p/view?usp=sharing
+```
 
 ## Citation
 ```
