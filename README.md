@@ -1,7 +1,8 @@
 # V-Mind
 ------
 
-This is the dataset of our paper which enhanced the MIND with all News Pics
+V-MIND enhanced the MIND dataset with news pictures!
+Please get V-MIND via google drive link below.
 
 ------
 
@@ -31,6 +32,7 @@ This is the dataset of our paper which enhanced the MIND with all News Pics
 - 'Trailer 1'
 
 ![N93173](https://github.com/Aaronhuang-778/v-mind/blob/main/pic/N93173.jpg)
+
 
 ## Citation
 ```
