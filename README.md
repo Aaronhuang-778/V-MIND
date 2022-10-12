@@ -40,12 +40,10 @@ https://drive.google.com/file/d/1ZBmwC2DBfl6ZNcD7Y6HqRMwCWw1NIW6p/view?usp=shari
 
 ## Citation
 ```
-@misc{han2022vlsnrvisionlinguistics,
-      title={VLSNR:Vision-Linguistics Coordination Time Sequence-aware News Recommendation},
-      author={Songhao Han and Wei Huang and Xiaotian Luan},
-      year={2022},
-      eprint={2210.02946},
-      archivePrefix={arXiv},
-      primaryClass={cs.IR}
+@article{han2022vlsnr,
+  title={VLSNR: Vision-Linguistics Coordination Time Sequence-aware News Recommendation},
+  author={Han, Songhao and Huang, Wei and Luan, Xiaotian},
+  journal={arXiv preprint arXiv:2210.02946},
+  year={2022}
 }
 ```
