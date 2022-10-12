@@ -9,7 +9,11 @@ Please get V-MIND via google drive link below.
 #### **Dataset**
 
 - The filename corresponds to the newsid in the MIND dataset.
-- The download link for our dataset: not open
+
+## Download
+```
+https://drive.google.com/file/d/1ZBmwC2DBfl6ZNcD7Y6HqRMwCWw1NIW6p/view?usp=sharing
+```
 
 #### Example：The format of txt is from MIND
 
@@ -32,11 +36,6 @@ Please get V-MIND via google drive link below.
 - 'Trailer 1'
 
 ![N93173](https://github.com/Aaronhuang-778/v-mind/blob/main/pic/N93173.jpg)
-
-## Download
-```
-https://drive.google.com/file/d/1ZBmwC2DBfl6ZNcD7Y6HqRMwCWw1NIW6p/view?usp=sharing
-```
 
 ## Citation
 ```
